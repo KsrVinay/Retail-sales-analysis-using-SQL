@@ -1,5 +1,4 @@
-
-create database project_retail_sales
+﻿create database project_retail_sales
 use project_retail_sales
 
 --importing file using ssms import wizard--
